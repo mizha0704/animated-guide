@@ -1,5 +1,5 @@
 # animated-guide
 This is my first repo
 <br>
-Author-Mizha Ahmed
+Author-Mizha Ahmed(student)
 
